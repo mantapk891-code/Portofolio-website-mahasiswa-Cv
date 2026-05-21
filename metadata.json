@@ -1,0 +1,6 @@
+{
+  "name": "Data Mahasiswa Motivasion Latter",
+  "description": "Website portofolio interaktif untuk mahasiswa Indonesia. Menampilkan profil, proyek, keahlian, riwayat akademis, serta dilengkapi dengan editor instan, ekspor data JSON, dan ekspor CV siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
